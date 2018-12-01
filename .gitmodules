@@ -1,0 +1,4 @@
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/MultithreadCorner/Hydra.git
+	branch = develop
