@@ -1,3 +1,12 @@
+/*----------------------------------------------------------------------------
+ *
+ *   Copyright (C) 2018 D.Brundu, A.Contu et al.
+ *
+ *   This file is part of D0->hhmumu analysis package.
+ *   It uses Hydra as external header-only software.
+ * 
+ *---------------------------------------------------------------------------*/
+
 #ifndef _ANSI_COLORS_
 #define _ANSI_COLORS_
 
